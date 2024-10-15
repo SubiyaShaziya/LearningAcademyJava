@@ -2,6 +2,9 @@ package octJava.practice;
 
 public class Lab001 {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        int a=10;
+        //System.out.println(a++ + a++);
+        System.out.println(++a + ++a);
+
     }
 }
