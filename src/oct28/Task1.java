@@ -25,7 +25,6 @@ public class Task1 {
         System.out.println(myStr.indexOf("planet"));
 
 
-        //String s7 = "(s5==s6)";
         System.out.println(s5.equals(s6));
     }
 }
